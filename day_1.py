@@ -106,5 +106,9 @@ def partition(array, low, high):
     return i + 1
 
 list_a, list_b = read_input()
+
 calculate_distance(list_a, list_b)
+# 1873376
+
 calculate_similarity(list_a, list_b)
+# 18997088
